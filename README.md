@@ -17,6 +17,8 @@ Developer: @ir_itachi_ir
 Official channel: https://t.me/+4sE_4E1bUP45MDBk 
 Version 1.1 will be available inside the channel Use 
 only in legal ways!
+USERNAME: itachi
+PASSWORD: itachi
 
 ⚡ Itachi Cyber Tool - نسخه 1.1 منتشر شد!
 
@@ -56,4 +58,7 @@ https://t.me/+4sE_4E1bUP45MDBk
 
 نسخه 1.1 داخل چنل موجود میشود
  استفاده فقط در مسیر قانونی!
+
 #ItachiTools #CyberTool #AdminKit
+USERNAME: itachi
+PASSWORD: itachi
